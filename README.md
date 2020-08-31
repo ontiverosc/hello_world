@@ -1,2 +1,5 @@
 # hello_world
-Just another repository
+
+Hello world!
+
+I'm just another grad student attempting to learn coding. Tips would be appreciated!
